@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color> <!-- Fully transparent -->
+    <color name="semi_black">#E6000000</color>
+    <color name="semi_trans">#66000000</color>
+    <!-- Primary text color (dark gray) -->
+    <color name="primary_text">#333333</color>
+
+    <!-- Secondary text color (light gray) -->
+    <color name="secondary_text">#888888</color>
+
+    <!-- Category text color (blue) -->
+    <color name="category_text">#3A5BA0</color>
+
+    <!-- Task text color (dark gray) -->
+    <color name="task_text">#333333</color>
+
+    <!-- Background color for filter button -->
+    <color name="filter_button_background">#E0F7FA</color>
+
+    <!-- Text color for filter button -->
+    <color name="filter_button_text">#00796B</color>
+</resources>

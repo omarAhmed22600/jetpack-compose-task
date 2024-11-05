@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home_title">Home</string>
+    <string name="connect_title">Connect</string>
+    <string name="questions">Questions</string>
+    <string name="tools_title">Tools</string>
+    <string name="profile_title">Profile</string>
+    <string name="welcome_title">welcome to:  how to use and enjoy Examate</string>
+    <string name="tap_anywhere_on_the_screen_to_continue">Tap anywhere on the screen to continue</string>
+    <!-- Screen title -->
+
+    <!-- Filter button label -->
+    <string name="filter">Filter</string>
+
+    <!-- Category names -->
+    <string name="category_events">Events</string>
+    <string name="category_technology">Technology</string>
+    <string name="category_culture">Culture</string>
+
+    <!-- Task descriptions -->
+    <string name="task_2">Task 2</string>
+    <string name="task_3">Task 3</string>
+
+    <!-- Question examples -->
+    <string name="question_text_1">Je suis votre collègue, je participe chaque année à une course à pieds pour célébrer le printemps. Vous êtes intéressé. Vous me posez des questions pour avoir des informations (parcours, durée, participants, etc.)</string>
+    <string name="question_text_3">What are the advantages and disadvantages of a multicultural society?</string>
+
+    <!-- Answer count and date format -->
+    <string name="answer_count">11 answers</string>
+    <string name="date">13 May 2023</string>
+</resources>
